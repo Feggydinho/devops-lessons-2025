@@ -1,5 +1,5 @@
 public without sharing class NoteTakingController {
-    // test change 1
+    // test change 1, 2
     @AuraEnabled
     public static Boolean createNoteRecord(String title, String description){
         try {
